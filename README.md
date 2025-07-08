@@ -1,4 +1,4 @@
-# dna-nucleotide-count
+# Simple Bioinformatics DNA Nucleotide Count
 
 Streamlit app counting the nucleotide composition of query DNA
 
