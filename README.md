@@ -11,4 +11,4 @@ Streamlit app counting the nucleotide composition of query DNA
 
 2. Run the app:
    ```
-   streamlit run app.py
+   streamlit run dna-app.py
